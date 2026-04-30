@@ -1,6 +1,8 @@
-package src.main.java.problema.fase2;
+package src.main.java.solucao;
 
-public class Navio{
+public class Navio implements Transporte {
+
+    @Override
     public void entregar() {
         System.out.println("Entrega pelo mar em um container.");
     }

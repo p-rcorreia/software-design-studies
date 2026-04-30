@@ -2,10 +2,9 @@ package src.main.java.problema.fase2;
 
 public class Principal {
     public static void main(String[] args) {
-        Caminhao caminhao = new Caminhao();
-        Navio navio = new Navio();
+        EmpresaLogistica empresaLogistica = new EmpresaLogistica();
 
-        caminhao.entregar();
-        navio.entregar();
+        empresaLogistica.planejarEntrega("viario");
+        empresaLogistica.planejarEntrega("maritimo");
     }
 }
