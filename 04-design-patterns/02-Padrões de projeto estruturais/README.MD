@@ -1,6 +1,6 @@
-# Padroes de projeto estruturais
+# Padrões de projeto estruturais
 
-Padroes estruturais ajudam a organizar a composicao entre classes e objetos.
+Padrões estruturais ajudam a organizar a composição entre classes e objetos.
 
 O foco e entender como as partes do sistema podem se conectar, adaptar ou compor sem criar dependencias rigidas demais.
 

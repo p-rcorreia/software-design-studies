@@ -1,10 +1,10 @@
 # Clean Code
 
-Estudos sobre Clean Code, boas praticas de escrita de codigo e organizacao de responsabilidades.
+Estudos sobre Clean Code, boas práticas de escrita de código e organização de responsabilidades.
 
 ## Linha de estudo
 
-- Problemas observados na pratica
-- Percepcoes sobre legibilidade e manutencao
-- Solucoes e boas praticas estudadas
+- Problemas observados na prática
+- Percepções sobre legibilidade e manutenção
+- Soluções e boas práticas estudadas
 - Aplicabilidade no desenvolvimento backend

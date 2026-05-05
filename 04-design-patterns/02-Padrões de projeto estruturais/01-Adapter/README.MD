@@ -1,13 +1,13 @@
 # Adapter
 
-## Problema pratico
+## Problema prático
 
-## Percepcoes sobre o problema
+## Percepções sobre o problema
 
-## Solucao proposta
+## Solução proposta
 
-## Percepcoes sobre a solucao
+## Percepções sobre a solução
 
 ## Aplicabilidade
 
-## Quando nao usar
+## Quando não usar

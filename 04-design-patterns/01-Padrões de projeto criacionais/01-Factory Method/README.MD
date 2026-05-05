@@ -1,8 +1,8 @@
 # Factory Method
 
-Tambem conhecido como Metodo Fabrica ou Construtor Virtual.
+Também conhecido como Método Fábrica ou Construtor Virtual.
 
-## Problema pratico
+## Problema prático
 
 Na pasta `Problema - Fase 1`, você pode observar o cenário de uma empresa de logística que inicialmente trabalha apenas com transporte viário, utilizando um caminhão para fazer entregas de caixas por terra.
 
@@ -28,7 +28,7 @@ Então vamos às percepções do projeto nessa segunda fase
 
 Você pode ver que criamos a classe `Navio` e alteramos a `EmpresaLogistica` para decidir qual transporte deve ser criado. Perceba que, mesmo funcionando, o método `planejarEntrega` agora precisa conhecer todas as classes concretas de transporte que podem ser usadas.
 
-## Percepcoes sobre o problema
+## Percepções sobre o problema
 
 O problema não é apenas "ter duas classes". O problema é que a classe responsável por planejar a entrega começa a conhecer diretamente cada classe concreta que pode realizar uma entrega.
 
@@ -38,7 +38,7 @@ Se no futuro surgirem novas modalidades, como `Aviao` ou `Trem`, esse mesmo mét
 
 Além disso, o `planejarEntrega` começa a misturar duas ideias: planejar a entrega e escolher qual transporte concreto será criado. Com o tempo, a manutenção fica mais arriscada, porque cada nova modalidade pode aumentar as condições dentro dessa mesma classe.
 
-## Solucao proposta
+## Solução proposta
 
 Na solução, a primeira mudança é parar de tratar `Caminhao` e `Navio` como coisas totalmente soltas na lógica da empresa. Os dois passam a representar uma mesma ideia: um `Transporte`.
 
@@ -64,7 +64,7 @@ Na `Principal`, ainda existe uma escolha:
 
 Essa escolha não desaparece completamente. O que muda é o nível da decisão. A aplicação escolhe qual tipo de logística quer usar, mas não precisa mais criar diretamente o transporte concreto usado por dentro dela.
 
-## Percepcoes sobre a solucao
+## Percepções sobre a solução
 
 O que ficou mais claro para mim é que o Factory Method não começa com a ideia de "criar uma factory" separada. Ele começa quando uma classe tem um processo que faz sentido, mas uma parte desse processo depende de qual objeto concreto precisa ser criado.
 
@@ -95,7 +95,7 @@ No dia a dia, eu olharia para esse padrão quando:
 - novos tipos podem surgir com frequência;
 - existe um fluxo comum, mas uma etapa desse fluxo varia conforme a especialização.
 
-## Quando nao usar
+## Quando não usar
 
 Eu evitaria usar esse padrão quando o problema ainda é muito simples e não existe uma variação real na criação dos objetos.
 

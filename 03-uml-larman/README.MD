@@ -4,7 +4,7 @@ Estudos sobre modelagem de software, UML e analise orientada a objetos com base 
 
 ## Linha de estudo
 
-- Problemas de modelagem observados na pratica
-- Percepcoes sobre responsabilidades e colaboracoes
+- Problemas de modelagem observados na prática
+- Percepções sobre responsabilidades e colaborações
 - Diagramas e modelos estudados
 - Aplicabilidade no desenho de sistemas orientados a objetos

@@ -1,6 +1,6 @@
-# Padroes de projeto comportamentais
+# Padrões de projeto comportamentais
 
-Padroes comportamentais ajudam a organizar responsabilidades, comunicacao e fluxo de execucao entre objetos.
+Padrões comportamentais ajudam a organizar responsabilidades, comunicação e fluxo de execução entre objetos.
 
 O foco e entender como o comportamento do sistema pode variar sem concentrar toda a regra em condicionais, classes grandes ou dependencias dificeis de testar.
 

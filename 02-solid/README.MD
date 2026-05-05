@@ -1,10 +1,10 @@
 # SOLID
 
-Estudos sobre os principios SOLID e como eles ajudam a criar codigo mais flexivel, coeso e facil de manter.
+Estudos sobre os princípios SOLID e como eles ajudam a criar código mais flexível, coeso e fácil de manter.
 
 ## Linha de estudo
 
-- Problemas observados na pratica
-- Percepcoes sobre acoplamento, coesao e responsabilidade
-- Solucoes propostas por cada principio
+- Problemas observados na prática
+- Percepções sobre acoplamento, coesão e responsabilidade
+- Soluções propostas por cada princípio
 - Aplicabilidade em Java e Spring Boot

@@ -1,8 +1,8 @@
-# Padroes de projeto criacionais
+# Padrões de projeto criacionais
 
-Padroes criacionais ajudam a organizar a forma como objetos sao criados.
+Padrões criacionais ajudam a organizar a forma como objetos são criados.
 
-O foco nao é apenas instanciar classes, mas reduzir acoplamento, esconder detalhes de criacao e deixar o codigo mais flexivel quando a forma de construir objetos pode variar.
+O foco não é apenas instanciar classes, mas reduzir acoplamento, esconder detalhes de criação e deixar o código mais flexível quando a forma de construir objetos pode variar.
 
 ## Patterns estudados
 
