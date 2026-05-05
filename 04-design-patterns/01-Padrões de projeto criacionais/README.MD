@@ -2,7 +2,7 @@
 
 Padroes criacionais ajudam a organizar a forma como objetos sao criados.
 
-O foco nao e apenas instanciar classes, mas reduzir acoplamento, esconder detalhes de criacao e deixar o codigo mais flexivel quando a forma de construir objetos pode variar.
+O foco nao é apenas instanciar classes, mas reduzir acoplamento, esconder detalhes de criacao e deixar o codigo mais flexivel quando a forma de construir objetos pode variar.
 
 ## Patterns estudados
 
