@@ -2,7 +2,7 @@
 
 Este diretorio reune meus estudos sobre Design Patterns, tambem chamados de Padroes de Projeto.
 
-A ideia e construir o conteudo aos poucos, a partir dos exemplos praticos estudados em cada padrao.
+A ideia é construir o conteudo aos poucos, a partir dos exemplos praticos estudados em cada padrao.
 
 ## Linha de estudo
 
