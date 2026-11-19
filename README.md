@@ -1,18 +1,22 @@
 # Software Design Studies
 
-Repositório dedicado aos meus estudos sobre modelagem de software, arquitetura, princípios de design e boas práticas de desenvolvimento backend.
+Repositório pessoal de **estudos em design e arquitetura de software**.
 
-O objetivo não é apenas registrar conceitos, mas entender como tomar melhores decisões técnicas ao projetar sistemas em Java e Spring Boot.
+> **Estado:** material de estudo em andamento, atualmente fora do meu foco principal. A existência de diretórios ou tópicos planejados não indica que o conteúdo tenha sido concluído.
 
-## Temas estudados
+Este repositório surgiu durante minha formação em Java Backend e Engenharia de Software. Mantenho os materiais úteis como referência, sem tratá-los como um curso completo ou como demonstração de domínio de todas as disciplinas.
 
-- Clean Code
-- SOLID
-- UML e modelagem orientada a objetos
-- GRASP
-- Design Patterns GoF
-- Arquitetura em camadas
-- Clean Architecture
-- DDD básico
-- Refatoração
-- Exemplos práticos em Java
+## Assuntos previstos e registros existentes
+
+- Clean Code e SOLID
+- UML, modelagem orientada a objetos e GRASP
+- Design Patterns
+- Arquitetura de software, refatoração e DDD
+
+A cobertura depende dos arquivos efetivamente preenchidos em cada pasta. Estruturas vazias são apenas rascunhos de organização.
+
+## Foco atual
+
+Atualmente concentro meus estudos em **Cloud, infraestrutura, Linux, redes e cibersegurança**, preservando a base de desenvolvimento como conhecimento complementar.
+
+[Voltar ao perfil](https://github.com/p-rcorreia)
